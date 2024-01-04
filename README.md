@@ -1,8 +1,8 @@
 # sysinfo-ios
 
-this shortcut shows you your device info via a list.
+this is an ios shortcut, which shows you your device info via a list.
 
-# this is what it looks like:
+# the output looks like this:
 ![IMG_7450](https://github.com/ConzZah/sysinfo-ios/assets/69615452/cc6c0712-8ad4-4201-9134-d904eaa495c6)
 
 
