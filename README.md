@@ -2,7 +2,7 @@
 
 this is an ios shortcut, which shows you your device info via a list.
 
-# the output looks like this:
+# the output:
 ![IMG_7450](https://github.com/ConzZah/sysinfo-ios/assets/69615452/cc6c0712-8ad4-4201-9134-d904eaa495c6)
 
 
